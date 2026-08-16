@@ -1,8 +1,6 @@
 # -S4-Crear-tu-Primera-Base-de-Datos-en-PostgreSQL-usando-Docker-y-DataGrip
-video esplicativo de como configurar datagrip en docker
-# Crear mi Primera Base de Datos en PostgreSQL usando Docker y DataGrip
 
-## 📌 Descripción
+##  Descripción
 
 En esta actividad se realizó la instalación y configuración de PostgreSQL utilizando Docker como entorno de ejecución, y DataGrip como IDE para administrar y trabajar con la base de datos.
 
@@ -10,7 +8,7 @@ El objetivo principal es levantar un servidor PostgreSQL dentro de un contenedor
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 
 - Instalar y verificar Docker Desktop.
 - Ejecutar PostgreSQL mediante un contenedor Docker.
@@ -22,7 +20,7 @@ El objetivo principal es levantar un servidor PostgreSQL dentro de un contenedor
 
 ---
 
-# 🐳 1. Instalación de Docker
+#  1. Instalación de Docker
 
 Para ejecutar PostgreSQL mediante Docker es necesario tener Docker Desktop instalado.
 
